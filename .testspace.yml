@@ -1,0 +1,4 @@
+manual:
+commit_status: false
+release:
+  - "*"
