@@ -6,6 +6,7 @@ testspace:
 This is a spec
 
 ## Case 0
+Some changes here
 
 ## Case1
 This is a case
