@@ -4,3 +4,4 @@ async function logoutComponent(page) {
 }
 
 module.exports = { logoutComponent };
+ 

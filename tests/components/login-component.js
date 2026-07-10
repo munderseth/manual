@@ -8,3 +8,4 @@ async function loginComponent(page, { username, password } = {}) {
 }
 
 module.exports = { loginComponent };
+  
