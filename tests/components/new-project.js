@@ -1,4 +1,4 @@
-async function newproject(page) {
+async function newproject(page, { p1, p2 } ) {
     await page.click('#user-name');
 }
 
